@@ -1,1 +1,2 @@
-
+Data source: BPS Jawa Timur
+Due to missing original data, some of the data is dummy data. Missing data were replaced with prediction values using Linear Regression.
