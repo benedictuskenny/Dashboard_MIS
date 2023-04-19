@@ -17,4 +17,5 @@ This dashboard is divided into seven sidebars:
 R-shiny Apps: https://benedictuskenny.shinyapps.io/ProjectSIM/
 
 Data source: BPS Jawa Timur
-Due to missing original data, some of the data is dummy data. Missing data were replaced with prediction values using Linear Regression.
+
+Notes: Due to missing original data, some of the data is dummy data. Missing data were replaced with prediction values using Linear Regression.
